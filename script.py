@@ -26,3 +26,6 @@ print()
 
 print("Model output:")
 print(model(tns))
+
+
+torch.save(model.state_dict(), "/home/user001/projects/def-sponsor00/user001/tutorielCC/models/test_model.pth")
