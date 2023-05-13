@@ -1,1 +1,1 @@
-salloc --acount=def-sponsor00 --gres=gpu:1 --cpus-per-task=3 --mem=32000M --time=1:00:00
+salloc --account=def-sponsor00 --gres=gpu:1 --cpus-per-task=3 --mem=32000M --time=1:00:00
