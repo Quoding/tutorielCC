@@ -44,3 +44,6 @@
 * `sftp` si peu de volume (e.g. quelques Megabytes)
 * Globus si gros volume (e.g. plusieurs Gigabytes)
 * `sftp` marchera pour des gros volumes aussi, mais c'est votre temps qui en écope.
+
+# Pour plus de documentation
+* https://docs.alliancecan.ca/wiki/Technical_documentation
