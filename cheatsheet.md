@@ -1,3 +1,7 @@
+# Création de compte
+* https://ccdb.alliancecan.ca/security/login
+* Il faut que votre directeur.rice de recherche possède un compte déjà. Si il/elle est affilié.e à une université canadienne, l'accès est gratuit, donc aucune raison de ne pas le prendre!
+
 # Connexion
 * `ssh nomUtilisateur@nomCalculateur.computecanada.ca`
 * Espace de travail personnel => `~/projects/def-nomDirecteur/nomUtilisateur/`
