@@ -13,6 +13,4 @@ source $SLURM_TMPDIR/env/bin/activate
 pip install --no-index --upgrade pip
 pip install --no-index -r requirements.txt
 
-#pip install -e /home/user001/.../de-torch # Exemple de package non supporté, on doit utiliser pip -e
-
 python script.py
